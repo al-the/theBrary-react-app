@@ -1,3 +1,12 @@
+# Let’s preserve our Wisdom together with Open Source theBrary project 
+Mission: to build decentralized collaborative private libraries application
+
+dev Website: https://thebrary.dev
+Main repo (public): https://github.com/al-the/theBrary-react-app
+
+the idea of project: https://thebrary.alfoundation.my/LMS/whiteboard.pdf
+
+
 # Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
